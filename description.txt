@@ -1,0 +1,10 @@
+Random Gameplay Enhancement is just a silly mod that aims to deliver new gameplay experience:
+
+- Screenshake on hit
+- Screenshake on kill
+- Enemies flashing when hit
+- Enemy combat quote
+- Changing camera zoom depending on what player is doing. (Actually inspired by the awesome DvlUP's [url=store.steampowered.com] Auto Cam [/url] mod but since it's not ported to 1.4.4 yet I decided to make a worse version)
+
+These features are all configurable.
+Have fun

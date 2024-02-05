@@ -1,0 +1,72 @@
+Configs: {
+	Config: {
+		DisplayName: Config
+
+		Headers: {
+			DynamicZoom: Dynamic Zoom
+			EnemyFlashingOnHit: Enemy Flashing On Hit
+			Screenshake: Screenshake
+			EnemyQuote: Enemy Quote
+		}
+
+		allowDynamicZoom: {
+			Label: Allow Dynamic Zoom
+			Tooltip: ""
+		}
+
+		RestZoom: {
+			Label: Rest Zoom
+			Tooltip: ""
+		}
+
+		IdleZoom: {
+			Label: Idle Zoom
+			Tooltip: ""
+		}
+
+		OutCombatZoom: {
+			Label: Out Combat Zoom
+			Tooltip: ""
+		}
+
+		InCombatZoom: {
+			Label: In Combat Zoom
+			Tooltip: ""
+		}
+
+		allowEnemyFlashing: {
+			Label: Allow Enemy Flashing
+			Tooltip: ""
+		}
+
+		allowScreenshakeOnHit: {
+			Label: Allow Screenshake On Hit
+			Tooltip: ""
+		}
+
+		ScreenshakeOnHitMagnitude: {
+			Label: Screenshake On Hit Magnitude
+			Tooltip: ""
+		}
+
+		ScreenshakeOnCritMagnitude: {
+			Label: Screenshake On Crit Magnitude
+			Tooltip: ""
+		}
+
+		allowScreenshakeOnKill: {
+			Label: Allow Screenshake On Kill
+			Tooltip: ""
+		}
+
+		ScreenshakeOnKillMagnitude: {
+			Label: Screenshake On Kill Magnitude
+			Tooltip: ""
+		}
+
+		AllowEnemyQuote: {
+			Label: Allow Enemy Quote
+			Tooltip: ""
+		}
+	}
+}
